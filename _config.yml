@@ -1,14 +1,29 @@
+name: Stitchstudio
+favicon: null
 layout_spectrum: 0.4121864
+typography_spectrum: 0.5376344
+title: Stitch Studio
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9203963
-  brandStrength: 0.2289513
-  lightness: 0.3244494
   brandColors:
     - '#E1DED9'
     - '#FFFFFF'
     - '#9A8A98'
     - '#A4BEBB'
     - '#552E49'
+  brandStrength: 0.2289513
+  lightness: 0.3244494
+  saturation: 0.9203963
   rhythmicContrast: 0.8340882
-typography_spectrum: 0.5376344
-name: Stitchstudio
+purpose: []
